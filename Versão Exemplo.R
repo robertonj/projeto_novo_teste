@@ -5,3 +5,5 @@ library(tidyverse)
 #Versão 4.0 TEste edição pelo Gitbuh
 mutate()
 rename()
+right_join()
+select()
